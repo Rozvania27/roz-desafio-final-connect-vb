@@ -93,7 +93,7 @@ code .
 
 npm run dev
 
----
+```
 
 ## 🔄 Importante: Desvincular do repositório original
 
@@ -113,6 +113,7 @@ rm -r .git
 
 Agora vocês devem criar um repositório próprio:
 
+```bash
 
 Acesse: https://github.com
 
@@ -122,14 +123,13 @@ Escolha um nome para o projeto (ex: desafio-final-connect)
 
 Clique em Create Repository
 
----
+```
 
 ## 🚀 Subindo o projeto para o GitHub
 
 Depois de criar o repositório, volte ao terminal e siga os passos:
 
 ```bash
-
 git init
 
 git add .
@@ -142,8 +142,7 @@ git branch -M main
 
 git push -u origin main
 
----
-
+```
 
 ## 📌 Entrega no Classroom
 
@@ -154,4 +153,4 @@ Após subir o projeto no GitHub, vocês devem entregar no Google Classroom:
 ✅ Garantir que está atualizado com o código final
 ✅ Conferir se todas as páginas foram preenchidas e estilizadas
 
----
+--- 
