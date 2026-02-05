@@ -94,3 +94,64 @@ code .
 npm run dev
 
 ---
+
+## 🔄 Importante: Desvincular do repositório original
+
+Após clonar este projeto, lembrem-se que ele está conectado ao repositório original de apoio.
+
+Para que vocês consigam enviar o projeto como repositório próprio, será necessário apagar a pasta .git.
+
+OU
+
+📌 Dentro da pasta do projeto, execute no terminal/git bash:
+
+rm -r .git
+
+---
+
+## 🌐 Criando o repositório de vocês no GitHub
+
+Agora vocês devem criar um repositório próprio:
+
+
+Acesse: https://github.com
+
+Clique em New Repository
+
+Escolha um nome para o projeto (ex: desafio-final-connect)
+
+Clique em Create Repository
+
+---
+
+## 🚀 Subindo o projeto para o GitHub
+
+Depois de criar o repositório, volte ao terminal e siga os passos:
+
+```bash
+
+git init
+
+git add .
+
+git commit -m "Primeira versão do desafio final"
+
+git remote add origin LINK_DO_REPOSITORIO
+
+git branch -M main
+
+git push -u origin main
+
+---
+
+
+## 📌 Entrega no Classroom
+
+Não se esqueçam:
+Após subir o projeto no GitHub, vocês devem entregar no Google Classroom:
+
+✅ Enviar o link do repositório do projeto
+✅ Garantir que está atualizado com o código final
+✅ Conferir se todas as páginas foram preenchidas e estilizadas
+
+---
